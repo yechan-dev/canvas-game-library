@@ -5,22 +5,7 @@
 ## 시작하기
 
 ```html
-<script src="library.js"></script>
-<script>
-createScene(800, 600);
-
-let player = createSprite("player");
-
-loop(() => {
-    if (isKeyPressed("d")) {
-        player.goX(5);
-    }
-
-    if (isKeyPressed("a")) {
-        player.goX(-5);
-    }
-});
-</script>
+<script src="https://raw.githubusercontent.com/yechan-dev/canvas-game-library/refs/heads/main/MainLibrary.js"></script>
 ```
 
 ## Scene 생성
