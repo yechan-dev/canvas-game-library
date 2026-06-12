@@ -5,7 +5,7 @@
 ## 시작하기
 
 ```html
-<script src="https://raw.githubusercontent.com/yechan-dev/canvas-game-library/refs/heads/main/MainLibrary.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/yechan-dev/canvas-game-library@main/MainLibrary.js"></script>
 ```
 
 ## Scene 생성
